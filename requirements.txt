@@ -1,4 +1,4 @@
-python-telegram-bot==20.8
-requests
-python-dotenv
-certifi
+python-telegram-bot>=21.0
+requests==2.31.0
+python-dotenv==1.0.1
+certifi==2024.2.2
